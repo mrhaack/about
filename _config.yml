@@ -26,8 +26,8 @@ projects:
     archived: false
     forks: false
     projects:
-     - stuff
-     - 404-BSoD
+      - stuff
+      - 404-BSoD
 
  social_media:
   # behance: your_username
