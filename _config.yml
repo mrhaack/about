@@ -27,6 +27,8 @@ projects:
     forks: false
     projects:
     - stuff
+    - 404-BSoD
+    - about
 
 social_media:
   # behance: your_username
